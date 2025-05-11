@@ -27,6 +27,23 @@ This distribution bundles:
 
 3. **MVN** installed and on your `PATH` (optional if you want to compile yourself).
 
+
+    Install via your platform’s package manager:
+
+    - **Ubuntu/Debian**
+        ```bash
+        sudo apt update
+        sudo apt install maven
+        ```
+    - **macOS** (Homebrew):
+        ```bash
+        brew update
+        brew install maven
+        ```
+    - **Windows** (Chocolatey):  
+        ```powershell
+        choco install maven
+        ```
 ---
 
 ## Run SCIV
