@@ -1,0 +1,4 @@
+allowedSubjects:
+  - CN=SolarWinds Inc.,OU=IT Security,O=SolarWinds,L=Austin,ST=Texas,C=US
+yaraRules:
+  - sample_rule.yar

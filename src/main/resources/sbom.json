@@ -1,0 +1,15 @@
+{
+  "components": [
+    {
+      "type": "file",
+      "name": "mydriver.sys",
+      "purl": "mydriver.sys",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4f9da0febe1e99d08c5bbbd759b84732526aa3348461ab88c218a5427ca365ca"
+        }
+      ]
+    }
+  ]
+}
